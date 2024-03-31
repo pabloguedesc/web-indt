@@ -25,10 +25,17 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 `VITE_API_BASE_URL`
 `VITE_PORT`
 
-4. Rodar a aplicação
+4. Rodar a aplicação - (A API também deve estar rodando para conseguir acessar o projeto)
 
 ```bash
 npm start
 ou
 yarn start
 ```
+## Acesar o sistema:
+
+1. Credenciais:
+   
+   `email`: master@admin.com
+   
+   `senha`: admin123

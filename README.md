@@ -2,6 +2,14 @@
 
 Aplicação em React com Vite focada no gerenciamento de usuários, incluindo funcionalidades CRUD e gráficos para analisar usuários ativos e inativos por nível de acesso. Incorpora um sistema de login e utiliza Axios para integrar-se à API, proporcionando uma gestão eficaz e segura de usuários.
 
+## Acessar projeto online:
+
+`link`: https://desafio-indt.netlify.app/login
+
+`email`: master@admin.com
+
+`senha`: admin123
+
 ## Como rodar o projeto:
 
 1. Clonar repositório

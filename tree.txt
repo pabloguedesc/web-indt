@@ -1,0 +1,65 @@
+.
+├── index.html
+├── package.json
+├── public
+│   └── vite.svg
+├── README.md
+├── src
+│   ├── api
+│   │   ├── auth
+│   │   │   ├── auth.dto.ts
+│   │   │   └── auth.service.ts
+│   │   ├── axios-config.ts
+│   │   ├── roles
+│   │   │   ├── roles.interface.ts
+│   │   │   └── roles.service.ts
+│   │   └── users
+│   │       ├── users.dto.ts
+│   │       ├── users.interface.ts
+│   │       └── users.service.ts
+│   ├── App.css
+│   ├── App.styles.ts
+│   ├── App.tsx
+│   ├── assets
+│   │   └── react.svg
+│   ├── components
+│   │   ├── buttons
+│   │   │   └── DeleteButton.tsx
+│   │   ├── common
+│   │   │   ├── Content.tsx
+│   │   │   └── Menu.tsx
+│   │   ├── dashboard
+│   │   │   ├── FilterSelect.tsx
+│   │   │   └── PieChart.tsx
+│   │   └── users
+│   │       ├── modals
+│   │       │   ├── create
+│   │       │   │   ├── CreateModal.tsx
+│   │       │   │   └── CreateUserForm.tsx
+│   │       │   └── editModal
+│   │       │       ├── EditModal.tsx
+│   │       │       └── EditUserForm.tsx
+│   │       └── tables
+│   │           └── TableUsers.tsx
+│   ├── index.css
+│   ├── main.tsx
+│   ├── pages
+│   │   ├── CommonUser.tsx
+│   │   ├── Dashboard.tsx
+│   │   ├── Error.tsx
+│   │   ├── Login.tsx
+│   │   └── Users.tsx
+│   ├── router
+│   │   ├── guards
+│   │   │   └── protected.route.tsx
+│   │   └── index.tsx
+│   ├── utils
+│   │   └── path.ts
+│   └── vite-env.d.ts
+├── tree.txt
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+└── yarn.lock
+
+20 directories, 42 files
